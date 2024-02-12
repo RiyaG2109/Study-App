@@ -1,2 +1,16 @@
-# Study-App
-Developed a cross-platform educational app using Flutter and Dart, offering interactive learning through MCQs for various subjects. Implemented secure user authentication via Gmail IDs and integrated Firebase as the backend with firestore for data storage. 
+# study_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
