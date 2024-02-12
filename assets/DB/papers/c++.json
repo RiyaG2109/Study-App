@@ -1,0 +1,124 @@
+{
+    "id": "ppr006",
+    "title": "C++",
+    "image_url": "",
+    "Description": "Basic C++ Multiple Choice Questions (MCQ) to practice basic Biology quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr006q001",
+            "question": "Which of the following is the correct syntax of including a user defined header files in C++",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "#include [userdefined]"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "#include “userdefined”"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "#include <userdefined.h>"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "#include <userdefined>"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr006q002",
+            "question": "Which of the following user-defined header file extension used in c++",
+            "answers": [    
+                {
+                    "identifier": "A",
+                    "Answer": ".hg"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": ".c"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": ".h"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": ".cpp"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr006q003",
+            "question": "By default, all the files in C++ are opened in _________ mode.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Text"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "VTC"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Binary"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "ISCII"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q004",
+            "question": "What is virtual inheritance in C++?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "C++ technique to avoid multiple copies of the base class into children/derived class"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "C++ technique to avoid multiple inheritances of classes"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "C++ technique to enhance multiple inheritance"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": " C++ technique to ensure that a private member of the base class can be accessed somehow"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q005",
+            "question": "Which is more effective while calling the C++ functions",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "call by object"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "call by pointer"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "call by value"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "call by reference"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

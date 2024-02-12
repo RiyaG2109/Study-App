@@ -1,0 +1,124 @@
+{
+    "id": "ppr007",
+    "title": "C++",
+    "image_url": "",
+    "Description": "Basic DSA Multiple Choice Questions (MCQ) to practice basic Biology quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr007q001",
+            "question": "For a binary search algorithm to work, it is necessary that the array (list) must be",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "sorted"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "unsorted"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "in a heap"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "poped out of stack "
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr007q002",
+            "question": "What data structure is used for depth first traversal of a graph?",
+            "answers": [    
+                {
+                    "identifier": "A",
+                    "Answer": "queue"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "stack"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "list"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None of the above"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr007q003",
+            "question": "Which of the following algorithm is not stable?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Bubble Sort"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Quick Sort"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Merge Sort"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Insertion Sort"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr007q004",
+            "question": "Linked list search complexity is",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "O(1)"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "O(log n)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "O(n)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "O(log logn)"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q005",
+            "question": "In the deletion operation of max heap, the root is replaced by",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "any random value from the heap."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "next available value in the right sub-tree."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "next available value in the left sub-tree."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Last element of the last level"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

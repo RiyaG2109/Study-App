@@ -1,0 +1,121 @@
+{
+    "id": "ppr005",
+    "title": "Python",
+    "image_url": "",
+    "Description": "Basic Python Multiple Choice Questions (MCQ) to practice basic physics quiz answers",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr005q001",
+            "question": "python is which type of language",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "low-level"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "mid- level"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Zero-level"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "High-level"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr005q002",
+            "question": "What is the extension of python",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": ".C"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": ".C++"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": ".py"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": ".python"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr005q003",
+            "question": "is python is used in machine learning",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Flase"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "True"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Don't know"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr005q004",
+            "question": "which of the following is a unit of eletric current:",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ohm"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "volt"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "watt"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "amp"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr005q005",
+            "question": "When an object is in motion, it's ................... must change.?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Shapen"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Size"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Acceleration"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Position"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

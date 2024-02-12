@@ -1,0 +1,147 @@
+{
+    "id": "ppr008",
+    "title": "Flutter",
+    "image_url": "",
+    "Description": "Basic Flutter Multiple Choice Questions (MCQ) to practice basic physics quiz answers",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr008q001",
+            "question": "What is flutter?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Flutter is an open-source backend development framework"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Flutter is an open-source UI toolkit"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Flutter is an open-source programming language for cross-platform applications"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Flutters is a DBMS toolkit"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr008q002",
+            "question": "Which programming language is used to build Flutter applications",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Kotlin"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "dart"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "java"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Go"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr008q003",
+            "question": "How many types of widgets are there in Flutter",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6"
+                },
+                {
+                    "identifier":"D",
+                    "Answer":"8+"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr008q004",
+            "question": "Access to a cloud database through Flutter is available through which service",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": " SQLite"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "NOSQL"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "MYSQL"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": " Firebase Database"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr008q005",
+            "question": "What element is used as an identifier for components when programming in Flutter",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Widgets"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Keys"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Elements"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Serial"
+                }
+            ],
+            "correct_answer": "B"
+        },{
+            "id": "ppr008q006",
+            "question": "What type of test can examine your code as a complete system",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Unit tests"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Widget tests"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Integration Tests"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "C"
+        }
+    ]
+}
